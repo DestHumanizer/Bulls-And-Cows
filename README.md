@@ -201,7 +201,7 @@ class Grader {
 }
 
 
-// new version of the Code with 0-9 and a-z 
+
 class SecretCode {
     String alphabet = "abcdefghijklmnopqrstuvwxyz";
     String numbers = "0123456789";
